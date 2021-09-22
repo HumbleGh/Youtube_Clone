@@ -72,7 +72,7 @@ nav{
 /* Sidebar styling */
 .sidebar {
     background: #fff;
-    width: 15px;
+    width: 15%;
     height: 100vh;
     position: fixed;
     top: 0;
@@ -97,5 +97,6 @@ nav{
 .sidebar hr{
     border: 0;
     height: 1;
-    background: #ccc;
+    background: rgb(214, 205, 205);
     width: 85%;
+}
